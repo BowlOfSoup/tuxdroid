@@ -4,7 +4,7 @@ This repo contains TuxDroid Python API examples and scripts to install Tuxbox (a
 ## Usage
 Clone this repository:
 ```
-git clone ...
+git clone https://github.com/BowlOfSoup/tuxdroid.git
 ```
 
 (1) Install dependencies needed, run `sudo bin/dependencies`.
@@ -35,4 +35,4 @@ sudo apt remove ca-certificates-java default-jre default-jre-headless fonts-deja
 ```
 
 ### Special thanks
-Shoutout to http://tuxdroid.tounepi.com/. Thanks to the work this person did I was able to setup this repo and get my TuxDroid to work. Lot's of other resources can be found on this website.
+Shoutout to http://tuxdroid.tounepi.com/. Thanks to the work this person did I was able to set up this repo and get my TuxDroid to work. Lots of other resources can be found on this website.
