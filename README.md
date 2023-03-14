@@ -2,13 +2,14 @@
 This repo contains TuxDroid Python API examples and scripts to install Tuxbox (app to work with the TuxDroid) on modern Linux (my system is Ubuntu 22.04).
 
 ## Usage
-Clone this repository:
+(1) Clone this repository:
 ```
 git clone https://github.com/BowlOfSoup/tuxdroid.git
 ```
 
-(1) Install dependencies needed, run `sudo bin/dependencies`.
-(2) Run `sudo bin/install`. You can always uninstall all files by running: `sudo bin/uninstall`.
+(2) Install dependencies needed, run `sudo bin/dependencies`.
+
+(3) Run `sudo bin/install`. You can always uninstall all files by running: `sudo bin/uninstall`.
 
 There should be an application installed in your app menu called "TuxBox 2.0", this is the webbased control panel for the droid.
 
