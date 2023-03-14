@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/share/tuxdroid/py4tux/bin/python /usr/share/tuxdroid/tuxhttpserver/tuxhttpserver.py $*

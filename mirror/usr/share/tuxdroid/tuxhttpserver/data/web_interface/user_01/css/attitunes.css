@@ -1,0 +1,296 @@
+*:focus {
+    outline: none;
+}
+
+*::-moz-focus-inner {
+    border: none;
+}
+
+div.frame01TopSpace{
+    margin-top:15px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/frame_01_top_2.png);
+    background-repeat:no-repeat;
+    height:40px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.frame01Middle{
+    font-family:Verdana, Bitstream Vera Sans;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_middle.png);
+    background-repeat:repeat;
+    height:1px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.frame01Middle2{
+    font-family:Verdana, Bitstream Vera Sans;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_middle_2.png);
+    background-repeat:repeat;
+    height:1px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.frame01Sep{
+    font-family:Verdana, Bitstream Vera Sans;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_sep.png);
+    background-repeat:repeat;
+    height:4px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.frame01Sep2{
+    font-family:Verdana, Bitstream Vera Sans;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_sep_2.png);
+    background-repeat:repeat;
+    height:2px;
+    width:845px;
+    overflow: hidden;
+}
+
+div.frame01Sep2{
+    margin-top:2px;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_sep_2.png);
+    background-repeat:repeat;
+    height:2px;
+    width:845px;
+    overflow: hidden;
+}
+
+div.frame01Bottom{
+    margin-top:0px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/frame_01_bottom_3.png);
+    background-repeat:no-repeat;
+    height:20px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.attitunesListScrollbox{
+    height:465px;
+    width:845px;
+    border-color:black;
+    border-style:solid;
+    border-width:0px;
+    background-color:#DCDADB;
+    overflow-y:auto;
+    overflow-x:hidden;
+    margin-left:5px;
+    margin-right:5px;
+    margin-top:0px;
+    background-image:url(/data/web_interface/user_01/img/frame_01_middle_4.png);
+}
+
+div.attitunesVSpacer{
+    height:34px;
+    width:8px;
+    margin-left:0px;
+    margin-top:0px;
+    display:table;
+    float:left;
+}
+
+.attitunesRowIcon{
+    height:34px;
+    width:34px;
+    margin-left:0px;
+    margin-top:2px;
+    display:table;
+    float:left;
+}
+
+.attitunesRowName{
+    width:470px;
+    height:34px;
+    margin-left:0px;
+    margin-top:2px;
+    display:table;
+    float:left;
+    line-height:34px;
+    font-size:12px;
+    color:#000;
+    text-align:left;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.attitunesBtnTitle{
+    width:56px;
+    _width:72px;
+    height:34px;
+    padding-left:16px;
+    padding-top:-1px;
+    margin-left:0px;
+    margin-top:2px;
+    display:table;
+    float:left;
+    line-height:34px;
+    font-size:10px;
+    color:#FFFFFF;
+    text-align:center;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.attitunesBtnNoTitle{
+    width:32px;
+    height:34px;
+    margin-left:0px;
+    margin-top:2px;
+    display:table;
+    float:left;
+    overflow:hidden;
+}
+
+.attitunesBtnStartEnable{
+    width:59px;
+    _width:72px;
+    padding-left:13px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_play_enable.png);
+}
+
+.attitunesBtnStartEnable:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_play_activate.png);
+}
+
+.attitunesBtnStartActivate{
+    width:59px;
+    _width:72px;
+    padding-left:13px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_play_activate.png);
+}
+
+.attitunesBtnStartDisable{
+    width:59px;
+    _width:72px;
+    padding-left:13px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_play_disable.png);
+}
+
+.attitunesBtnStopEnable{
+    width:53px;
+    _width:72px;
+    padding-left:19px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_stop_enable.png);
+}
+
+.attitunesBtnStopEnable:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_stop_activate.png);
+}
+
+.attitunesBtnStopActivate{
+    width:53px;
+    _width:72px;
+    padding-left:19px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_stop_activate.png);
+}
+
+.attitunesBtnStopDisable{
+    width:53px;
+    _width:72px;
+    padding-left:19px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_stop_disable.png);
+}
+
+.attitunesBtnEdit{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_edit_enable.png);
+}
+
+.attitunesBtnEdit:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_edit_activate.png);
+}
+
+.attitunesBtnEditDisable{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_edit_disable.png);
+}
+
+.attitunesBtnDelete{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_delete_enable.png);
+}
+
+.attitunesBtnDelete:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_delete_activate.png);
+}
+
+.attitunesBtnDeleteDisable{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_delete_disable.png);
+}
+
+.attitunesFilterRadio{
+    width:85px;
+    height:25px;
+    margin-left:0px;
+    margin-top:9px;
+    padding-top:-1px;
+    line-height:25px;
+    font-size:10px;
+    color:#FFFFFF;
+    text-align:center;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    display:table;
+    float:left;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.attitunesFilterRadioEnable{
+    background-image:url(/data/web_interface/user_01/img/gadgets_filter_radio_enable.png);
+}
+
+.attitunesFilterRadioEnable:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_filter_radio_activate.png);
+}
+
+.attitunesFilterRadioActivate{
+    background-image:url(/data/web_interface/user_01/img/gadgets_filter_radio_activate.png);
+}
+
+.leightbox {
+	color: #333;
+	display: none;
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	width: 50%;
+	height: 50%;
+	padding: 1em;
+	border: 1em solid #B8B8B8;
+	background-color: white;
+	text-align: left;
+	z-index:1001;
+	overflow: auto;
+}
+
+#overlay{
+	display:none;
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:855px;
+	height:535px;
+	z-index:1000;
+	background-color:#000000;
+	-moz-opacity: 0.7;
+	opacity:.70;
+	filter: alpha(opacity=70);
+}
+
+.lightbox[id]{ /* IE6 and below Can't See This */    position:fixed;    }#overlay[id]{ /* IE6 and below Can't See This */    position:fixed;    }

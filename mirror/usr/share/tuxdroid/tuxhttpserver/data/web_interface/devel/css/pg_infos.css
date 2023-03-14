@@ -1,0 +1,315 @@
+div.descriptionTop{
+    height:100px;
+    width:400px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/devel/img/pg-desc-bg-top.png);
+}
+
+div.descriptionBottom{
+    height:10px;
+    width:400px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/devel/img/pg-desc-bg-bottom.png);
+}
+
+.descriptionIcon{
+    position:relative;
+    top:10px;
+    left:10px;
+    display:table;
+}
+
+.decriptionName{
+    position:relative;
+    top:5px;
+    left:10px;
+    width:100%;
+    font-size:19px;
+    font-weight:bold;
+    color:#EC6500;
+    display:table;
+}
+
+.descriptionBox{
+    position:relative;
+    top:0px;
+    left:70px;
+    width:270px;
+    margin-right:60px;
+    margin-top:-35px;
+    text-align:center;
+    vertical-align:middle;
+    float:left;
+    display:table;
+}
+
+.descriptionDescription{
+    font-size:14px;
+    color:white;
+}
+
+.descriptionAuthor{
+    font-size:9px;
+    color:#EC6500;
+}
+
+div.sectionSepParameters{
+    height:20px;
+    width:400px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/devel/img/pg-sec-sep-parameters.png);
+}
+
+div.sectionSepAlerts{
+    height:20px;
+    width:400px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/devel/img/pg-sec-sep-alerts.png);
+}
+
+div.sectionSepHelp{
+    height:20px;
+    width:400px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/devel/img/pg-sec-sep-help.png);
+}
+
+div.sectionSepCommands{
+    height:20px;
+    width:400px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/devel/img/pg-sec-sep-commands.png);
+}
+
+.sectionSepTitle{
+    font-size:11px;
+    font-weight:bold;
+    color:#EC6500;
+    margin-left:25px;
+    vertical-align:middle;
+}
+
+div.sectionContentTop{
+    margin-top:5px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/devel/img/pg-sec-content-bg-top.png);
+    background-repeat:no-repeat;
+    height:10px;
+    width:400px;
+    overflow: hidden;
+}
+
+div.sectionContentTop2{
+    height:10px;
+    width:400px;
+    display:table;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/devel/img/pg-sec-content-bg-middle.png);
+    background-repeat:repeat;
+}
+
+div.sectionContentBottom{
+    height:10px;
+    width:400px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/devel/img/pg-sec-content-bg-bottom.png);
+    background-repeat:no-repeat;
+    background-color:#090909;
+    overflow: hidden;
+}
+
+div.sectionContentRowBox{
+    height:25px;
+    display:table;
+    width:400px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/devel/img/pg-sec-content-bg-middle.png);
+    background-repeat:repeat;
+}
+
+div.sectionContentCol12{
+    float:left;
+    width:197px;
+    font-family:Verdana, Bitstream Vera Sans;
+    vertical-align:middle;
+    text-align:right;
+}
+
+div.sectionContentCol22{
+    float:right;
+    width:197px;
+    font-family:Verdana, Bitstream Vera Sans;
+    vertical-align:middle;
+    text-align:left;
+}
+
+div.sectionContentCol13{
+    float:left;
+    width:40px;
+    font-family:Verdana, Bitstream Vera Sans;
+    vertical-align:middle;
+    text-align:center;
+}
+
+div.sectionContentCol23{
+    float:left;
+    width:157px;
+    font-family:Verdana, Bitstream Vera Sans;
+    vertical-align:middle;
+    text-align:right;
+}
+
+div.sectionContentCol33{
+    float:right;
+    width:197px;
+    font-family:Verdana, Bitstream Vera Sans;
+    vertical-align:middle;
+    text-align:left;
+}
+
+.sectionContentPName{
+    font-size:11px;
+}
+
+div.sectionElementDescBox{
+    width:400px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-color:#090909;
+    margin-top:5px;
+}
+
+.sectionElementDescName{
+    left:10px;
+    color:white;
+    font-size:11px;
+    font-weight:bold;
+    text-decoration:underline;
+    margin-left:15px;
+}
+
+.sectionElementDescNameCheck{
+    left:0px;
+    color:white;
+    font-size:11px;
+    font-weight:bold;
+    text-decoration:underline;
+    margin-left:0px;
+}
+
+.sectionElementDescDescription{
+    left:10px;
+    color:white;
+    font-size:11px;
+    font-style:italic;
+    margin-left:15px;
+}
+
+div.descriptionHelpBox{
+    position:relative;
+    height:200px;
+    width:372px;
+    border-color:black;
+    border-style:solid;
+    border-width:1px;
+    background-color:#A9B5BD;
+    overflow: auto;
+    font-size:8pt;
+    font-family:Verdana, Bitstream Vera Sans;
+	color: black;
+    margin-left:13px;
+    margin-top:5px;
+}
+
+.sectionElementColName{
+    color:black;
+    font-size:11px;
+    font-weight:bold;
+    text-decoration:underline;
+}
+
+.sectionElementColDescription{
+    color:black;
+    font-size:11px;
+    font-style:italic;
+}
+
+.sectionElementColSingle{
+    margin-top:12px;
+    color:black;
+    font-size:11px;
+    font-weight:bold;
+    vertical-align:middle;
+    float:left;
+    display:table;
+    width:197px;
+    text-align:right;
+}
+
+.buttonStart{
+    margin-top:10px;
+    margin-left:12px;
+	width:73px;
+    height:23px;
+    float:left;
+    display:table;
+    vertical-align:middle;
+    color:white;
+    font-size:11px;
+    font-weight:bold;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans, Arial, Helvetica, sans-serif;
+    text-align:center;
+    line-height:23px;
+    background-image:url(/data/web_interface/devel/img/pg-bt-start-enabled.png);
+}
+
+a.buttonStart:hover{
+    color:#EC6500;
+    background-image:url(/data/web_interface/devel/img/pg-bt-start-over.png);
+}
+
+.buttonStop{
+    margin-top:10px;
+    margin-right:22px;
+	width:73px;
+    height:23px;
+    float:right;
+    display:table;
+    vertical-align:middle;
+    color:white;
+    font-size:11px;
+    font-weight:bold;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans, Arial, Helvetica, sans-serif;
+    text-align:center;
+    line-height:23px;
+    background-image:url(/data/web_interface/devel/img/pg-bt-stop-enabled.png);
+}
+
+a.buttonStop:hover{
+    color:#EC6500;
+    background-image:url(/data/web_interface/devel/img/pg-bt-stop-over.png);
+}
+
+.button170{
+    margin-top:10px;
+    margin-left:0px;
+	width:170px;
+    height:23px;
+    float:left;
+    display:table;
+    vertical-align:middle;
+    color:white;
+    font-size:11px;
+    font-weight:bold;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans, Arial, Helvetica, sans-serif;
+    text-align:center;
+    line-height:23px;
+    background-image:url(/data/web_interface/devel/img/pg-bt-170-enabled.png);
+}
+
+a.button170:hover{
+    color:#EC6500;
+    background-image:url(/data/web_interface/devel/img/pg-bt-170-over.png);
+}

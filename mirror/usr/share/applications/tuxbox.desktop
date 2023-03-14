@@ -1,0 +1,14 @@
+
+[Desktop Entry]
+Version=0.1
+Encoding=UTF-8
+Name=TuxBox 2.0
+Comment=KySoH "http://www.kysoh.com"
+Exec=/usr/bin/tuxbox
+Icon=tuxbox.png
+Terminal=false
+Type=Application
+Categories=Application;Utility;
+StartupNotify=true
+GenericName[en]=TuxBox 2.0
+Comment[en_US.utf8]=Kysoh "http://www.kysoh.com"

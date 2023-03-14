@@ -1,0 +1,646 @@
+*:focus {
+    outline: none;
+}
+
+*::-moz-focus-inner {
+    border: none;
+}
+
+div.thumbnailBarView{
+    top:0px;
+    left:0px;
+    margin-left:10px;
+    margin-top:0px;
+    height:90px;
+    width:700px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/thumbnailbar_view.png);
+    display:table;
+    float:left;
+}
+
+div.thumbnailBarGadgetFirstDiv{
+    top:0px;
+    left:0px;
+	width:44px;
+    height:44px;
+    margin-left:28px;
+    -margin-left:14px;
+    margin-top:17px;
+    display:table;
+    float:left;
+}
+
+.thumbnailBarGadget01Name{
+    position:absolute;
+    top:0px;
+    left:0px;
+	width:80px;
+    height:14px;
+    margin-left:87px;
+    margin-top:84px;
+    display:table;
+    float:left;
+    line-height:14px;
+    font-size:11px;
+    color:#FFFFFF;
+    text-align:center;
+    text-decoration:none;
+    overflow:hidden;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.thumbnailBarGadget02Name{
+    position:absolute;
+    top:0px;
+    left:0px;
+	width:80px;
+    height:14px;
+    margin-left:187px;
+    margin-top:84px;
+    display:table;
+    float:left;
+    line-height:14px;
+    font-size:11px;
+    color:#FFFFFF;
+    text-align:center;
+    text-decoration:none;
+    overflow:hidden;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.thumbnailBarGadget03Name{
+    position:absolute;
+    top:0px;
+    left:0px;
+	width:80px;
+    height:14px;
+    margin-left:287px;
+    margin-top:84px;
+    display:table;
+    float:left;
+    line-height:14px;
+    font-size:11px;
+    color:#FFFFFF;
+    text-align:center;
+    text-decoration:none;
+    overflow:hidden;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.thumbnailBarGadget04Name{
+    position:absolute;
+    top:0px;
+    left:0px;
+	width:172px;
+    height:29px;
+    margin-left:342px;
+    margin-top:125px;
+    line-height:29px;
+    font-size:14px;
+    color:#FFFFFF;
+    text-align:center;
+    text-decoration:none;
+    font-weight:bold;
+    overflow:hidden;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.thumbnailBarGadget05Name{
+    position:absolute;
+    top:0px;
+    left:0px;
+	width:80px;
+    height:14px;
+    margin-left:487px;
+    margin-top:84px;
+    display:table;
+    float:left;
+    line-height:14px;
+    font-size:11px;
+    color:#FFFFFF;
+    text-align:center;
+    text-decoration:none;
+    overflow:hidden;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.thumbnailBarGadget06Name{
+    position:absolute;
+    top:0px;
+    left:0px;
+	width:80px;
+    height:14px;
+    margin-left:587px;
+    margin-top:84px;
+    display:table;
+    float:left;
+    line-height:14px;
+    font-size:11px;
+    color:#FFFFFF;
+    text-align:center;
+    text-decoration:none;
+    overflow:hidden;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.thumbnailBarGadget07Name{
+    position:absolute;
+    top:0px;
+    left:0px;
+	width:80px;
+    height:14px;
+    margin-left:687px;
+    margin-top:84px;
+    display:table;
+    float:left;
+    line-height:14px;
+    font-size:11px;
+    color:#FFFFFF;
+    text-align:center;
+    text-decoration:none;
+    overflow:hidden;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+div.thumbnailBarGadgetDivFift{
+    top:0px;
+    left:0px;
+	width:44px;
+    height:44px;
+    margin-left:43px;
+    margin-top:17px;
+    display:table;
+    float:left;
+}
+
+div.thumbnailBarGadgetDivCenter{
+    top:0px;
+    left:0px;
+	width:70px;
+    height:70px;
+    margin-left:43px;
+    margin-top:10px;
+    display:table;
+    float:left;
+}
+
+div.thumbnailBarGadgetDiv{
+    top:0px;
+    left:0px;
+	width:44px;
+    height:44px;
+    margin-left:56px;
+    margin-top:17px;
+    display:table;
+    float:left;
+}
+
+div.frame01Top{
+    margin-top:0px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/frame_01_top.png);
+    background-repeat:no-repeat;
+    height:10px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.frame01TopSpace{
+    margin-top:15px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/frame_01_top.png);
+    background-repeat:no-repeat;
+    height:10px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.frame01Middle{
+    font-family:Verdana, Bitstream Vera Sans;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_middle.png);
+    background-repeat:repeat;
+    height:1px;
+    width:855px;
+}
+
+div.frame01MiddleNotify{
+    font-family:Verdana, Bitstream Vera Sans;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_middle.png);
+    background-repeat:repeat;
+    height:315px;
+    width:855px;
+}
+
+div.frame01Bottom{
+    margin-top:0px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/frame_01_bottom.png);
+    background-repeat:no-repeat;
+    height:20px;
+    width:855px;
+    overflow: hidden;
+}
+
+.thumbnailBarBtnPrevious{
+    top:0px;
+    left:0px;
+	width:20px;
+    height:32px;
+    margin-left:47px;
+    margin-top:29px;
+    display:table;
+    line-height:32px;
+    float:left;
+    background-image:url(/data/web_interface/user_01/img/thumbnailbar_btn_previous_enable.png);
+}
+
+.thumbnailBarBtnPrevious:hover{
+    background-image:url(/data/web_interface/user_01/img/thumbnailbar_btn_previous_activate.png);
+}
+
+.thumbnailBarBtnNext{
+    top:0px;
+    left:0px;
+	width:20px;
+    height:32px;
+    margin-left:10px;
+    margin-top:29px;
+    display:table;
+    line-height:32px;
+    float:left;
+    background-image:url(/data/web_interface/user_01/img/thumbnailbar_btn_next_enable.png);
+}
+
+.thumbnailBarBtnNext:hover{
+    background-image:url(/data/web_interface/user_01/img/thumbnailbar_btn_next_activate.png);
+}
+
+div.thumbnailBarTooltip{
+    position:absolute;
+    top:0px;
+    left:0px;
+	width:172px;
+    height:50px;
+    margin-left:342px;
+    margin-top:109px;
+}
+
+img.notifyTuxIdle{
+    top:0px;
+    left:0px;
+	width:330px;
+    height:298px;
+    margin-left:47px;
+    margin-top:10px;
+    display:table;
+    float:left;
+}
+
+div.notifyHintContent{
+    margin-left:0px;
+    margin-top:0px;
+    height:187px;
+    width:430px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/notify_hint_content.png);
+    display:table;
+    float:left;
+}
+
+div.notifyHintFrame{
+    margin-left:0px;
+    margin-top:50px;
+    height:235px;
+    width:430px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/notify_hint_frame.png);
+    display:table;
+    float:left;
+}
+
+div.notifyHintGadgetIcon{
+    top:0px;
+    left:0px;
+	width:30px;
+    height:30px;
+    margin-left:60px;
+    -margin-left:30px;
+    margin-top:8px;
+    display:table;
+    float:left;
+}
+
+.notifyHintGadgetName{
+    top:0px;
+    left:0px;
+	width:320px;
+    height:30px;
+    margin-left:10px;
+    margin-top:8px;
+    display:table;
+    float:left;
+    line-height:30px;
+    font-size:12px;
+    color:#FFFFFF;
+    text-align:left;
+    font-weight:bold;
+    overflow:hidden;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.notifyHintGadgetDescription{
+    top:0px;
+    left:0px;
+	width:360px;
+    height:22px;
+    margin-left:60px;
+    margin-top:0px;
+    _margin-top:5px;
+    display:table;
+    line-height:11px;
+    font-size:10px;
+    color:#FFFFFF;
+    text-align:center;
+    overflow:hidden;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.notifyHintGadgetMessage{
+    font-size:12px;
+    color:#FFFFFF;
+    text-align:left;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+div.notifyHintGadgetMessages{
+    left:0px;
+    top:5px;
+    margin-left:60px;
+    margin-top:5px;
+    width:358px;
+    _width:360px;
+    height:155px;
+    overflow-y:auto;
+    overflow-x:hidden;
+    border: 1px solid #FFF;
+	background-color:#6e6d6d;
+	text-align:left;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+div.notifyHintAlert{
+    position:absolute;
+    top:0px;
+    left:0px;
+	width:99px;
+    height:56px;
+    margin-left:47px;
+    margin-top:155px;
+    display:block;
+    background-image:url(/data/web_interface/user_01/img/notify_hint_alert.png);
+}
+
+div.notifyAlertGadgetIcon{
+    top:0px;
+    left:0px;
+	width:26px;
+    height:26px;
+    margin-left:24px;
+    -margin-left:12px;
+    margin-top:17px;
+    display:table;
+    float:left;
+}
+
+div.statusFrame{
+    margin-top:0px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/status_frame.png);
+    background-repeat:no-repeat;
+    height:50px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.statusFrameBottomSpace{
+    margin-top:0px;
+    height:5px;
+}
+
+.statusViewTitle{
+    top:0px;
+    left:0px;
+	width:67px;
+    height:32px;
+    margin-left:10px;
+    margin-top:8px;
+    display:table;
+    line-height:32px;
+    float:left;
+    font-size:12px;
+    color:#FFFFFF;
+    text-align:center;
+    font-weight:bold;
+    overflow:hidden;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+img.statusPicRadio{
+    top:0px;
+    left:0px;
+	width:51px;
+    height:32px;
+    margin-left:0px;
+    margin-top:9px;
+    display:table;
+    float:left;
+}
+
+img.statusActiveOnOff{
+    top:0px;
+    left:0px;
+	width:18px;
+    height:32px;
+    margin-left:0px;
+    margin-top:9px;
+    display:table;
+    float:left;
+}
+
+img.statusPicDongle{
+    top:0px;
+    left:0px;
+	width:62px;
+    height:32px;
+    margin-left:0px;
+    margin-top:9px;
+    display:table;
+    float:left;
+}
+
+img.statusPicBattery{
+    top:0px;
+    left:0px;
+	width:32px;
+    height:32px;
+    margin-left:375px;
+    margin-top:9px;
+    display:table;
+    float:left;
+}
+
+.statusBatteryLabel{
+    top:0px;
+    left:0px;
+	width:54px;
+    height:32px;
+    margin-left:0px;
+    margin-top:8px;
+    display:table;
+    line-height:32px;
+    float:left;
+    font-size:12px;
+    color:#FFFFFF;
+    text-align:center;
+    font-weight:bold;
+    overflow:hidden;
+}
+
+.statusBtnSoundOnEnable{
+    width:71px;
+    _width:101px;
+    height:32px;
+    padding-left:30px;
+    padding-top:-1px;
+    margin-left:10px;
+    margin-top:9px;
+    display:table;
+    float:left;
+    line-height:32px;
+    font-size:11px;
+    color:#FFFFFF;
+    text-align:center;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/status_btn_soundon_enable.png);
+}
+
+.statusBtnSoundOnEnable:hover{
+    background-image:url(/data/web_interface/user_01/img/status_btn_soundon_activate.png);
+}
+
+.statusBtnSoundOnActivate{
+    width:71px;
+    _width:101px;
+    height:32px;
+    padding-left:30px;
+    padding-top:-1px;
+    margin-left:10px;
+    margin-top:9px;
+    display:table;
+    float:left;
+    line-height:32px;
+    font-size:11px;
+    color:#FFFFFF;
+    text-align:center;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/status_btn_soundon_activate.png);
+}
+
+.statusBtnSoundOnActivate:hover{
+    background-image:url(/data/web_interface/user_01/img/status_btn_soundon_activate.png);
+}
+
+.statusBtnSoundOffEnable{
+    width:80px;
+    _width:102px;
+    height:32px;
+    padding-left:22px;
+    padding-top:-1px;
+    margin-left:0px;
+    margin-top:9px;
+    display:table;
+    float:left;
+    line-height:32px;
+    font-size:11px;
+    color:#FFFFFF;
+    text-align:center;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/status_btn_soundoff_enable.png);
+}
+
+.statusBtnSoundOffEnable:hover{
+    background-image:url(/data/web_interface/user_01/img/status_btn_soundoff_activate.png);
+}
+
+.statusBtnSoundOffActivate{
+    width:80px;
+    _width:102px;
+    height:32px;
+    padding-left:22px;
+    padding-top:-1px;
+    margin-left:0px;
+    margin-top:9px;
+    display:table;
+    float:left;
+    line-height:32px;
+    font-size:11px;
+    color:#FFFFFF;
+    text-align:center;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/status_btn_soundoff_activate.png);
+}
+
+.statusBtnSoundOffActivate:hover{
+    background-image:url(/data/web_interface/user_01/img/status_btn_soundoff_activate.png);
+}
+
+.leightbox {
+	color: #333;
+	display: none;
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	width: 50%;
+	height: 50%;
+	padding: 1em;
+	border: 1em solid #B8B8B8;
+	background-color: white;
+	text-align: left;
+	z-index:1001;
+	overflow: auto;
+}
+
+#overlay{
+	display:none;
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:855px;
+	height:535px;
+	z-index:1000;
+	background-color:#000000;
+	-moz-opacity: 0.7;
+	opacity:.70;
+	filter: alpha(opacity=70);
+}
+
+.lightbox[id]{ /* IE6 and below Can't See This */    position:fixed;    }#overlay[id]{ /* IE6 and below Can't See This */    position:fixed;    }

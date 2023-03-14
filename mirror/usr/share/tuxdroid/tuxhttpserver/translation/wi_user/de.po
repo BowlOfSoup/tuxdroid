@@ -1,0 +1,192 @@
+msgid "live_with_tux"
+msgstr "Leben mit Tux"
+
+msgid "gadgets"
+msgstr "Gadgets"
+
+msgid "attitunes"
+msgstr "Attitunes"
+
+msgid "tools"
+msgstr "Tools"
+
+msgid "online"
+msgstr "Online-Shop"
+
+msgid "status"
+msgstr "Status"
+
+msgid "sound_on"
+msgstr "Ton ein"
+
+msgid "sound_off"
+msgstr "Ton aus"
+
+msgid "start"
+msgstr "Start"
+
+msgid "stop"
+msgstr "Stopp"
+
+msgid "all"
+msgstr "Alle"
+
+msgid "on_demand"
+msgstr "Favoriten"
+
+msgid "alerts"
+msgstr "Hinweise"
+
+msgid "delete"
+msgstr "Löschen"
+
+msgid "popup_not_yet_implemented"
+msgstr "Diese Funktion ist noch nicht eingerichtet."
+
+msgid "popup_confirm_delete_gadget"
+msgstr "Möchten Sie diese gadget löschen?"
+
+msgid "popup_confirm_download_gadget"
+msgstr "Möchten Sie diese gadget herunterladen?"
+
+msgid "popup_confirm_update_gadget"
+msgstr "Möchten Sie diese gadget aktualisieren?"
+
+msgid "popup_gadget_has_been_updated"
+msgstr "Die gadget wurde aktualisiert."
+
+msgid "popup_confirm_delete_attitune"
+msgstr "Möchten Sie diesen attitune löschen?"
+
+msgid "yes"
+msgstr "Ja"
+
+msgid "no"
+msgstr "Nein"
+
+msgid "close"
+msgstr "Schließen"
+
+msgid "apply"
+msgstr "Anwenden"
+
+msgid "cancel"
+msgstr "Abbrechen"
+
+msgid "gadget_settings"
+msgstr "Einstellungen"
+
+msgid "gadget_name"
+msgstr "Funktionsname"
+
+msgid "my_use_of_the_gadget"
+msgstr "Meine Funktionsanwendung"
+
+msgid "on_demand_config_section"
+msgstr "Favorit"
+
+msgid "on_demand_description"
+msgstr "Diese gadget wird in die Favoritenliste aufgenommen."
+
+msgid "date"
+msgstr "Datum"
+
+msgid "starting_at"
+msgstr "Start um"
+
+msgid "stopping_at"
+msgstr "Ende um"
+
+msgid "delay"
+msgstr "Häufigkeit"
+
+msgid "my_week"
+msgstr "Meine Woche"
+
+msgid "all_days"
+msgstr "Täglich"
+
+msgid "working_days"
+msgstr "Werktags"
+
+msgid "weekend"
+msgstr "Wochenende"
+
+msgid "monday"
+msgstr "Montag"
+
+msgid "tuesday"
+msgstr "Dienstag"
+
+msgid "wednesday"
+msgstr "Mittwoch"
+
+msgid "thursday"
+msgstr "Donnerstag"
+
+msgid "friday"
+msgstr "Freitag"
+
+msgid "saturday"
+msgstr "Samstag"
+
+msgid "sunday"
+msgstr "Sonntag"
+
+msgid "quart_hours"
+msgstr "Viertelstündlich"
+
+msgid "half_hours"
+msgstr "Halbstündlich"
+
+msgid "full_hours"
+msgstr "Stündlich"
+
+msgid "crazy"
+msgstr "Crazy"
+
+msgid "often"
+msgstr "Häufig"
+
+msgid "normal"
+msgstr "Normal"
+
+msgid "rarely"
+msgstr "Selten"
+
+msgid "show"
+msgstr "Zeigen"
+
+msgid "online_documentation"
+msgstr "Online-Dokumentation"
+
+msgid "documentation_url"
+msgstr "http://www.kysoh.com/tuto/tuxbox-de.pdf"
+
+msgid "global_settings"
+msgstr "Allgemeine Einstellungen"
+
+msgid "introduction_alerts"
+msgstr "Ankündigungsmeldungen"
+
+msgid "voice_settings"
+msgstr "Spracheinstellungen"
+
+msgid "voice_param_title"
+msgstr "Stimme"
+
+msgid "pitch_param_title"
+msgstr "Stimmhöhe"
+
+msgid "test"
+msgstr "Test"
+
+msgid "pitch_tux_voice"
+msgstr "Tux-Stimme"
+
+msgid "pitch_normal"
+msgstr "Normal"
+
+msgid "pitch_low"
+msgstr "Tief"
+

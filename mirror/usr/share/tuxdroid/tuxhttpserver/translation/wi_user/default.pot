@@ -1,0 +1,191 @@
+msgid "live_with_tux"
+msgstr ""
+
+msgid "gadgets"
+msgstr ""
+
+msgid "attitunes"
+msgstr ""
+
+msgid "tools"
+msgstr ""
+
+msgid "online"
+msgstr ""
+
+msgid "status"
+msgstr ""
+
+msgid "sound_on"
+msgstr ""
+
+msgid "sound_off"
+msgstr ""
+
+msgid "start"
+msgstr ""
+
+msgid "stop"
+msgstr ""
+
+msgid "all"
+msgstr ""
+
+msgid "on_demand"
+msgstr ""
+
+msgid "alerts"
+msgstr ""
+
+msgid "delete"
+msgstr ""
+
+msgid "popup_not_yet_implemented"
+msgstr ""
+
+msgid "popup_confirm_delete_gadget"
+msgstr ""
+
+msgid "popup_confirm_download_gadget"
+msgstr ""
+
+msgid "popup_confirm_update_gadget"
+msgstr ""
+
+msgid "popup_gadget_has_been_updated"
+msgstr ""
+
+msgid "popup_confirm_delete_attitune"
+msgstr ""
+
+msgid "yes"
+msgstr ""
+
+msgid "no"
+msgstr ""
+
+msgid "close"
+msgstr ""
+
+msgid "apply"
+msgstr ""
+
+msgid "cancel"
+msgstr ""
+
+msgid "gadget_settings"
+msgstr ""
+
+msgid "gadget_name"
+msgstr ""
+
+msgid "my_use_of_the_gadget"
+msgstr ""
+
+msgid "on_demand_config_section"
+msgstr ""
+
+msgid "on_demand_description"
+msgstr ""
+
+msgid "date"
+msgstr ""
+
+msgid "starting_at"
+msgstr ""
+
+msgid "stopping_at"
+msgstr ""
+
+msgid "delay"
+msgstr ""
+
+msgid "my_week"
+msgstr ""
+
+msgid "all_days"
+msgstr ""
+
+msgid "working_days"
+msgstr ""
+
+msgid "weekend"
+msgstr ""
+
+msgid "monday"
+msgstr ""
+
+msgid "tuesday"
+msgstr ""
+
+msgid "wednesday"
+msgstr ""
+
+msgid "thursday"
+msgstr ""
+
+msgid "friday"
+msgstr ""
+
+msgid "saturday"
+msgstr ""
+
+msgid "sunday"
+msgstr ""
+
+msgid "quart_hours"
+msgstr ""
+
+msgid "half_hours"
+msgstr ""
+
+msgid "full_hours"
+msgstr ""
+
+msgid "crazy"
+msgstr ""
+
+msgid "often"
+msgstr ""
+
+msgid "normal"
+msgstr ""
+
+msgid "rarely"
+msgstr ""
+
+msgid "show"
+msgstr ""
+
+msgid "online_documentation"
+msgstr ""
+
+msgid "documentation_url"
+msgstr ""
+
+msgid "global_settings"
+msgstr ""
+
+msgid "introduction_alerts"
+msgstr ""
+
+msgid "voice_settings"
+msgstr ""
+
+msgid "voice_param_title"
+msgstr ""
+
+msgid "pitch_param_title"
+msgstr ""
+
+msgid "test"
+msgstr ""
+
+msgid "pitch_tux_voice"
+msgstr ""
+
+msgid "pitch_normal"
+msgstr ""
+
+msgid "pitch_low"
+msgstr ""

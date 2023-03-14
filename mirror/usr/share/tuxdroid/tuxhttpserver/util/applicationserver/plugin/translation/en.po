@@ -1,0 +1,20 @@
+msgid "Locutor"
+msgstr "Voice"
+
+msgid "Pitch"
+msgstr "Pitch"
+
+msgid "Country"
+msgstr "Country"
+
+msgid "Language"
+msgstr "Language"
+
+msgid "Uuid"
+msgstr "Internal identifier"
+
+msgid "Started by"
+msgstr "Started by"
+
+msgid "Verbose mode"
+msgstr "Verbose mode"

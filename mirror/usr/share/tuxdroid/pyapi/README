@@ -1,0 +1,9 @@
+tuxisalive python package
+
+Howto load it (In root !) :
+    $sudo python setup.py install
+
+For all information about tuxdroid, please visit:
+
+  http://www.tuxisalive.com
+

@@ -1,0 +1,26 @@
+#!/bin/bash
+
+echo -e "\033[32mInstalling dependencies needed for Tuxbox...\033[0m"
+
+apt-get install -y gcc-multilib
+apt-get install -y lib32z1-dev
+apt-get install -y default-jre
+
+if [ -e /etc/ld.so.conf ]; then
+    test=0
+
+    cd /etc || exit
+    while IFS= read -r line || [ -n "$line" ]; do
+        if [ "$line" = "/usr/lib32" ]; then
+            test=1
+        fi
+    done < ld.so.conf
+
+    if [ $test -eq 0 ]
+    then
+        echo "/usr/lib32" >> ld.so.conf
+        ldconfig
+    fi
+fi
+
+echo -e "\033[32m[Done]\033[0m"

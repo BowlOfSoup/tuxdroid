@@ -1,0 +1,27 @@
+#!/bin/bash
+
+# shellcheck disable=SC2002
+PREFIX=$(cat /etc/tuxdroid/tuxdroid.conf | grep PREFIX | cut -d "=" -f 2)
+
+echo -e "\033[32mUninstalling TuxDroid...\033[0m"
+
+# shellcheck disable=SC2039
+if [ $EUID != 0 ]; then
+    echo -e "\033[31mThis script must be run as root.\033[0m"
+    exit 1
+fi
+
+rm -r "$PREFIX"/share/tuxdroid
+rm -r /etc/tuxdroid
+
+rm "$PREFIX"/share/applications/tuxbox.desktop
+rm "$PREFIX"/share/pixmaps/tuxbox.png
+rm "$PREFIX"/bin/tuxhttpserver "$PREFIX"/bin/tuxsh "$PREFIX"/bin/tuxbox "$PREFIX"/bin/tux_wifi_channel
+
+# Cleanup the /tmp folder in case of the server has been started as root.
+if [ -d /tmp/TuxDroidServer ]; then rm -rf /tmp/TuxDroidServer; fi
+if [ -d /tmp/workForAttitunes ]; then rm -rf /tmp/workForAttitunes; fi
+if [ -d /tmp/workForGadgets ]; then rm -rf /tmp/workForGadgets; fi
+if [ -d /tmp/workForPlugins ]; then rm -rf /tmp/workForPlugins; fi
+
+echo -e "\033[32m[Done]\033[0m"

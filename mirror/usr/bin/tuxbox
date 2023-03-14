@@ -1,0 +1,13 @@
+#!/bin/bash
+if [ ! -e $HOME/.tuxdroid/run/tuxhttpserver.pid ]; then
+    tuxhttpserver --start
+else
+    PID=`cat $HOME/.tuxdroid/run/tuxhttpserver.pid`
+    ps $PID > /dev/null  
+    if [ ! $? == 0 ]; then
+	# Server not started, but PID file exists
+	rm $HOME/.tuxdroid/run/tuxhttpserver.pid
+	tuxhttpserver --restart
+    fi
+fi
+xdg-open http://127.0.0.1:54321/

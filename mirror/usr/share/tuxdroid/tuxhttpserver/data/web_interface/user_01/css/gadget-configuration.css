@@ -1,0 +1,210 @@
+.gadgetConfTitleBarSettings{
+    height:26px;
+    width:408px;
+    overflow:hidden;
+    display:block;
+    background-image:url(/data/web_interface/user_01/img/gadget_conf_title_bar_settings.png);
+}
+
+.gadgetConfTitleBarUses{
+    height:26px;
+    width:408px;
+    margin-top:15px;
+    overflow:hidden;
+    display:block;
+    background-image:url(/data/web_interface/user_01/img/gadget_conf_title_bar_uses.png);
+}
+
+.gadgetConfTitleBarOnDemand{
+    height:26px;
+    width:408px;
+    margin-top:15px;
+    overflow:hidden;
+    display:block;
+    background-image:url(/data/web_interface/user_01/img/gadget_conf_title_bar_ondemand.png);
+}
+
+.gadgetConfTitleBarAlert{
+    height:26px;
+    width:408px;
+    margin-top:15px;
+    overflow:hidden;
+    display:block;
+    background-image:url(/data/web_interface/user_01/img/gadget_conf_title_bar_alert.png);
+}
+
+.gadgetConfTitleBarLabel{
+    width:357px;
+    height:14px;
+    margin-left:37px;
+    margin-top:6px;
+    display:table;
+    float:left;
+    line-height:14px;
+    font-size:11px;
+    color:#FFF;
+    text-align:left;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.gadgetConfTitleBarBottom1{
+    height:2px;
+    width:408px;
+    overflow:hidden;
+    display:block;
+    background-image:url(/data/web_interface/user_01/img/gadget_conf_title_bar_bottom_1.png);
+}
+
+.gadgetConfTitleBarBottom2{
+    height:2px;
+    width:408px;
+    overflow:hidden;
+    display:block;
+    background-image:url(/data/web_interface/user_01/img/gadget_conf_title_bar_bottom_2.png);
+}
+
+.gadgetConfContentFrameTop{
+    height:10px;
+    width:408px;
+    margin-top:10px;
+    overflow:hidden;
+    display:block;
+    background-image:url(/data/web_interface/user_01/img/gadget_conf_content_frame_top.png);
+}
+
+.gadgetConfContentFrameMiddle{
+
+    width:408px;
+    overflow:hidden;
+    display:block;
+    background-image:url(/data/web_interface/user_01/img/gadget_conf_content_frame_middle.png);
+}
+
+.gadgetConfContentFrameSep{
+    height:1px;
+    width:408px;
+    margin-top:2px;
+    overflow:hidden;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/gadget_conf_content_frame_sep.png);
+}
+
+.gadgetConfContentFrameBottom{
+    height:10px;
+    width:408px;
+    overflow:hidden;
+    display:block;
+    background-image:url(/data/web_interface/user_01/img/gadget_conf_content_frame_bottom.png);
+}
+
+.gadgetConfParamName{
+    width:178px;
+    height:19px;
+    margin-left:21px;
+    margin-top:2px;
+    display:table;
+    float:left;
+    line-height:19px;
+    font-size:10px;
+    color:#000;
+    text-align:right;
+    vertical-align:middle;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.gadgetConfParamValue{
+    width:178px;
+    height:19px;
+    margin-left:6px;
+    margin-top:2px;
+    display:table;
+    float:left;
+    overflow:hidden;
+    font-size:10px;
+    color:#000;
+    text-align:left;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-repeat:repeat;
+}
+
+.gadgetConfParamValue2{
+    width:178px;
+    height:19px;
+    margin-left:6px;
+    margin-top:2px;
+    display:table;
+    float:left;
+    overflow:hidden;
+    font-size:10px;
+    line-height:18px;
+    color:#000;
+    text-align:left;
+    vertical-align:middle;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-repeat:repeat;
+}
+
+.gadgetConfMyUseDescription{
+    font-family:Verdana, Bitstream Vera Sans;
+    width:370px;
+    height:20px;
+    margin-left:0px;
+    font-size:11px;
+    line-height:20px;
+    color:#000;
+    text-align:left;
+    vertical-align:middle;
+    text-decoration:none;
+}
+
+input.text{
+    font-family:Verdana, Bitstream Vera Sans;
+    font-size:10px;
+    background-color:#FFF;
+    border-color:#3b3b3b;
+    border-style:solid;
+    border-width:1px;
+    width:175px;
+    height:16px;
+    _height:18px;
+    vertical-align:bottom;
+}
+
+select.select{
+    font-family:Verdana, Bitstream Vera Sans;
+    font-size:10px;
+    background-color:#FFF;
+    border-color:#3b3b3b;
+    border-style:solid;
+    border-width:1px;
+    width:175px;
+    height:18px;
+    vertical-align:bottom;
+}
+
+select.selectTime{
+    font-family:Verdana, Bitstream Vera Sans;
+    font-size:10px;
+    background-color:#FFF;
+    border-color:#3b3b3b;
+    border-style:solid;
+    border-width:1px;
+    width:40px;
+}
+
+select.selectYear{
+    font-family:Verdana, Bitstream Vera Sans;
+    font-size:10px;
+    background-color:#FFF;
+    border-color:#3b3b3b;
+    border-style:solid;
+    border-width:1px;
+    width:55px;
+}

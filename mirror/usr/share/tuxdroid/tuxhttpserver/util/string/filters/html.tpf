@@ -1,0 +1,12 @@
+pattern_name = "Html"
+pattern_description = ""
+pattern_author = "Remi Jocaille"
+pattern_version = "0.0.1"
+pattern_languages = ['ALL',]
+pattern_define = [
+    ['regular', r'<br>', '.'],
+    ['regular', r'&quot;', ''],
+    ['regular', r'&amp;', '&'],
+    ['regular', r'&gt;', ''],
+    ['regular', r'&lt;', ''],
+]

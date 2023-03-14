@@ -1,0 +1,191 @@
+msgid "live_with_tux"
+msgstr "Leef met Tux"
+
+msgid "gadgets"
+msgstr "Gadgets"
+
+msgid "attitunes"
+msgstr "Attitunes"
+
+msgid "tools"
+msgstr "Extra"
+
+msgid "online"
+msgstr "Online Shop"
+
+msgid "status"
+msgstr "Status"
+
+msgid "sound_on"
+msgstr "Klank aan"
+
+msgid "sound_off"
+msgstr "Klank uit"
+
+msgid "start"
+msgstr "Start"
+
+msgid "stop"
+msgstr "Stop"
+
+msgid "all"
+msgstr "Alles"
+
+msgid "on_demand"
+msgstr "Favorieten"
+
+msgid "alerts"
+msgstr "Alarmen"
+
+msgid "delete"
+msgstr "Wissen"
+
+msgid "popup_not_yet_implemented"
+msgstr "Deze functie is nog niet geïmplementeerd."
+
+msgid "popup_confirm_delete_gadget"
+msgstr "Wil je deze gadget wissen ?"
+
+msgid "popup_confirm_download_gadget"
+msgstr "Wil je deze gadget downloaden ?"
+
+msgid "popup_confirm_update_gadget"
+msgstr "Wil je deze gadget updaten ?"
+
+msgid "popup_gadget_has_been_updated"
+msgstr "De gadget is geupdate."
+
+msgid "popup_confirm_delete_attitune"
+msgstr "Wil je deze attitune verwijderen ?"
+
+msgid "yes"
+msgstr "Ja"
+
+msgid "no"
+msgstr "Nee"
+
+msgid "close"
+msgstr "Sluiten"
+
+msgid "apply"
+msgstr "Opslaan"
+
+msgid "cancel"
+msgstr "Annuleren"
+
+msgid "gadget_settings"
+msgstr "Configuratie"
+
+msgid "gadget_name"
+msgstr "Gadget naam"
+
+msgid "my_use_of_the_gadget"
+msgstr "Mijn gebruik van de gadget"
+
+msgid "on_demand_config_section"
+msgstr "Favorieten"
+
+msgid "on_demand_description"
+msgstr "Plaats deze gadget in mijn Favorieten"
+
+msgid "date"
+msgstr "Datum"
+
+msgid "starting_at"
+msgstr "Starting om"
+
+msgid "stopping_at"
+msgstr "Stoppen om"
+
+msgid "delay"
+msgstr "Frequentie"
+
+msgid "my_week"
+msgstr "Mijn week"
+
+msgid "all_days"
+msgstr "Elke dag"
+
+msgid "working_days"
+msgstr "Werkdagen"
+
+msgid "weekend"
+msgstr "Weekend"
+
+msgid "monday"
+msgstr "Maandag"
+
+msgid "tuesday"
+msgstr "Dinsdag"
+
+msgid "wednesday"
+msgstr "Woensdag"
+
+msgid "thursday"
+msgstr "Donderdag"
+
+msgid "friday"
+msgstr "Vrijdag"
+
+msgid "saturday"
+msgstr "Zaterdag"
+
+msgid "sunday"
+msgstr "Zondag"
+
+msgid "quart_hours"
+msgstr "Kwartier"
+
+msgid "half_hours"
+msgstr "Half uur"
+
+msgid "full_hours"
+msgstr "Uur"
+
+msgid "crazy"
+msgstr "Overdreven"
+
+msgid "often"
+msgstr "Vaak"
+
+msgid "normal"
+msgstr "Normaal"
+
+msgid "rarely"
+msgstr "Zelden"
+
+msgid "show"
+msgstr "Tonen"
+
+msgid "online_documentation"
+msgstr "Online documentatie"
+
+msgid "documentation_url"
+msgstr "http://www.kysoh.com/documentatie?set_language=nl"
+
+msgid "global_settings"
+msgstr "Algemene configuratie"
+
+msgid "introduction_alerts"
+msgstr "Introductie alarmen"
+
+msgid "voice_settings"
+msgstr "Stem configuratie"
+
+msgid "voice_param_title"
+msgstr "Stem"
+
+msgid "pitch_param_title"
+msgstr "Toonhoogte"
+
+msgid "test"
+msgstr "Test"
+
+msgid "pitch_tux_voice"
+msgstr "Tux stem"
+
+msgid "pitch_normal"
+msgstr "Normaal"
+
+msgid "pitch_low"
+msgstr "Laag"

@@ -1,0 +1,387 @@
+*:focus {
+    outline: none;
+}
+
+*::-moz-focus-inner {
+    border: none;
+}
+
+div.frame01TopSpace{
+    margin-top:15px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/frame_01_top_2.png);
+    background-repeat:no-repeat;
+    height:40px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.frame01Middle{
+    font-family:Verdana, Bitstream Vera Sans;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_middle.png);
+    background-repeat:repeat;
+    height:1px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.frame01Middle2{
+    font-family:Verdana, Bitstream Vera Sans;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_middle_2.png);
+    background-repeat:repeat;
+    height:1px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.frame01Sep{
+    font-family:Verdana, Bitstream Vera Sans;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_sep.png);
+    background-repeat:repeat;
+    height:4px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.frame01Sep2{
+    font-family:Verdana, Bitstream Vera Sans;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_sep_2.png);
+    background-repeat:repeat;
+    height:2px;
+    width:845px;
+    overflow: hidden;
+}
+
+div.frame01Sep2{
+    margin-top:2px;
+    display:table;
+    background-image:url(/data/web_interface/user_01/img/frame_01_sep_2.png);
+    background-repeat:repeat;
+    height:2px;
+    width:845px;
+    overflow: hidden;
+}
+
+div.frame01Bottom{
+    margin-top:0px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/frame_01_bottom_2.png);
+    background-repeat:no-repeat;
+    height:20px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.frame01Bottom2{
+    margin-top:0px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/user_01/img/frame_01_bottom_4.png);
+    background-repeat:no-repeat;
+    height:20px;
+    width:855px;
+    overflow: hidden;
+}
+
+div.gadgetsListScrollbox{
+    height:465px;
+    width:845px;
+    border-color:black;
+    border-style:solid;
+    border-width:0px;
+    background-color:#DCDADB;
+    overflow-y:auto;
+    overflow-x:hidden;
+    margin-left:5px;
+    margin-right:5px;
+    margin-top:0px;
+    background-image:url(/data/web_interface/user_01/img/frame_01_middle_3.png);
+}
+
+div.gadgetsListScrollbox2{
+    height:465px;
+    width:845px;
+    border-color:black;
+    border-style:solid;
+    border-width:0px;
+    background-color:#DCDADB;
+    overflow-y:auto;
+    overflow-x:hidden;
+    margin-left:5px;
+    margin-right:5px;
+    margin-top:0px;
+    background-image:url(/data/web_interface/user_01/img/frame_01_middle_5.png);
+}
+
+div.gadgetsVSpacer{
+    height:34px;
+    width:8px;
+    margin-left:0px;
+    margin-top:0px;
+    display:table;
+    float:left;
+}
+
+.gadgetsRowIcon{
+    height:34px;
+    width:34px;
+    margin-left:0px;
+    margin-top:2px;
+    display:table;
+    float:left;
+}
+
+.gadgetsRowName{
+    width:390px;
+    height:34px;
+    margin-left:0px;
+    margin-top:2px;
+    display:table;
+    float:left;
+    line-height:34px;
+    font-size:12px;
+    color:#000;
+    text-align:left;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.gadgetsRowName2{
+    width:680px;
+    height:34px;
+    margin-left:0px;
+    margin-top:2px;
+    display:table;
+    float:left;
+    line-height:34px;
+    font-size:12px;
+    color:#000;
+    text-align:left;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.gadgetsBtnTitle{
+    width:56px;
+    _width:72px;
+    height:34px;
+    padding-left:16px;
+    padding-top:-1px;
+    margin-left:0px;
+    margin-top:2px;
+    display:table;
+    float:left;
+    line-height:34px;
+    font-size:10px;
+    color:#FFFFFF;
+    text-align:center;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.gadgetsBtnNoTitle{
+    width:32px;
+    height:34px;
+    margin-left:0px;
+    margin-top:2px;
+    display:table;
+    float:left;
+    overflow:hidden;
+}
+
+.gadgetsBtnStartEnable{
+    width:59px;
+    _width:72px;
+    padding-left:13px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_play_enable.png);
+}
+
+.gadgetsBtnStartEnable:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_play_activate.png);
+}
+
+.gadgetsBtnStartActivate{
+    width:59px;
+    _width:72px;
+    padding-left:13px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_play_activate.png);
+}
+
+.gadgetsBtnStartDisable{
+    width:59px;
+    _width:72px;
+    padding-left:13px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_play_disable.png);
+}
+
+.gadgetsBtnStopEnable{
+    width:53px;
+    _width:72px;
+    padding-left:19px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_stop_enable.png);
+}
+
+.gadgetsBtnStopEnable:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_stop_activate.png);
+}
+
+.gadgetsBtnStopActivate{
+    width:53px;
+    _width:72px;
+    padding-left:19px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_stop_activate.png);
+}
+
+.gadgetsBtnStopDisable{
+    width:53px;
+    _width:72px;
+    padding-left:19px;
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_stop_disable.png);
+}
+
+.gadgetsBtnHelp{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_help_enable.png);
+}
+
+.gadgetsBtnHelp:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_help_activate.png);
+}
+
+.gadgetsBtnHelpDisable{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_help_disable.png);
+}
+
+.gadgetsBtnConfigure{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_configure_enable.png);
+}
+
+.gadgetsBtnConfigure:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_configure_activate.png);
+}
+
+.gadgetsBtnConfigureDisable{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_configure_disable.png);
+}
+
+.gadgetsBtnDuplicate{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_duplicate_enable.png);
+}
+
+.gadgetsBtnDuplicate:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_duplicate_activate.png);
+}
+
+.gadgetsBtnDuplicateDisable{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_duplicate_disable.png);
+}
+
+.gadgetsBtnDownload{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_download_enable.png);
+}
+
+.gadgetsBtnDownload:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_download_activate.png);
+}
+
+.gadgetsBtnDownloadDisable{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_download_disable.png);
+}
+
+.gadgetsBtnUpdate{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_update_enable.png);
+}
+
+.gadgetsBtnUpdate:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_update_activate.png);
+}
+
+.gadgetsBtnUpdateDisable{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_update_disable.png);
+}
+
+.gadgetsBtnDelete{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_delete_enable.png);
+}
+
+.gadgetsBtnDelete:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_delete_activate.png);
+}
+
+.gadgetsBtnDeleteDisable{
+    background-image:url(/data/web_interface/user_01/img/gadgets_btn_delete_disable.png);
+}
+
+.gadgetsFilterRadio{
+    width:85px;
+    height:25px;
+    margin-left:0px;
+    margin-top:9px;
+    padding-top:-1px;
+    line-height:25px;
+    font-size:10px;
+    color:#FFFFFF;
+    text-align:center;
+    vertical-align:middle;
+    font-weight:bold;
+    overflow:hidden;
+    text-decoration:none;
+    display:table;
+    float:left;
+    font-family:Verdana, Bitstream Vera Sans;
+}
+
+.gadgetsFilterRadioEnable{
+    background-image:url(/data/web_interface/user_01/img/gadgets_filter_radio_enable.png);
+}
+
+.gadgetsFilterRadioEnable:hover{
+    background-image:url(/data/web_interface/user_01/img/gadgets_filter_radio_activate.png);
+}
+
+.gadgetsFilterRadioActivate{
+    background-image:url(/data/web_interface/user_01/img/gadgets_filter_radio_activate.png);
+}
+
+.leightbox {
+	color: #333;
+	display: none;
+	position: absolute;
+	top: 25%;
+	left: 25%;
+	width: 50%;
+	height: 50%;
+	padding: 1em;
+	border: 1em solid #B8B8B8;
+	background-color: white;
+	text-align: left;
+	z-index:1001;
+	overflow: auto;
+}
+
+#overlay{
+	display:none;
+	position:absolute;
+	top:0px;
+	left:0px;
+	width:855px;
+	height:535px;
+	z-index:1000;
+	background-color:#000000;
+	-moz-opacity: 0.7;
+	opacity:.70;
+	filter: alpha(opacity=70);
+}
+
+.lightbox[id]{ /* IE6 and below Can't See This */    position:fixed;    }#overlay[id]{ /* IE6 and below Can't See This */    position:fixed;    }

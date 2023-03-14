@@ -1,0 +1,89 @@
+input.text{
+    font-family:Verdana, Bitstream Vera Sans;
+    font-size:8pt;
+    background-color:#A9B5BD;
+    border-color:#3F3F3F;
+    border-style:solid;
+    border-width:1px;
+    width:180px;
+    vertical-align:bottom;
+}
+
+select.select{
+    font-family:Verdana, Bitstream Vera Sans;
+    font-size:8pt;
+    background-color:#A9B5BD;
+    border-color:#3F3F3F;
+    border-style:solid;
+    border-width:1px;
+    display:block;
+    width:180px;
+}
+
+h1 {
+    font-weight:bold;
+    font-size:11pt;
+	color: black;
+	margin-left: 2%;
+	margin-right: 2%;
+    margin-bottom:0em;
+}
+
+h2 {
+    font-weight:bold;
+    font-size:9pt;
+	color: black;
+	margin-left: 2%;
+	margin-right: 2%;
+    margin-bottom:0em;
+}
+
+h3 {
+    font-weight:bold;
+    font-size:9pt;
+	margin-left: 2%;
+	margin-right: 2%;
+    border-collapse: collapse;
+}
+
+h4 {
+    font-weight:bold;
+    font-style:italic;
+    font-size:9pt;
+	margin-left: 2%;
+	margin-right: 2%;
+    border-collapse: collapse;
+}
+
+p {
+    margin-top:0em;
+
+    font-size:8pt;
+	margin-left:2%;
+	margin-right:2%;
+}
+
+dl {
+	margin-left:2%;
+	margin-right:2%;
+}
+
+li {
+    margin-top:0px;
+    font-size:8pt;
+}
+
+hr {
+    display:block; 
+    margin-left:2%;
+    margin-top:1px;
+    color:black;
+    background-color:black;
+    height:1px;
+}
+
+td {
+    font-size:8pt;
+    font-family:Verdana, Bitstream Vera Sans;
+	color:black;
+}

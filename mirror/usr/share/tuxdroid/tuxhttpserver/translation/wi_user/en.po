@@ -1,0 +1,191 @@
+msgid "live_with_tux"
+msgstr "Live with Tux"
+
+msgid "gadgets"
+msgstr "Gadgets"
+
+msgid "attitunes"
+msgstr "Attitunes"
+
+msgid "tools"
+msgstr "Tools"
+
+msgid "online"
+msgstr "Online Shop"
+
+msgid "status"
+msgstr "Status"
+
+msgid "sound_on"
+msgstr "Sound on"
+
+msgid "sound_off"
+msgstr "Sound off"
+
+msgid "start"
+msgstr "Start"
+
+msgid "stop"
+msgstr "Stop"
+
+msgid "all"
+msgstr "All"
+
+msgid "on_demand"
+msgstr "My Favorites"
+
+msgid "alerts"
+msgstr "Alerts"
+
+msgid "delete"
+msgstr "Delete"
+
+msgid "popup_not_yet_implemented"
+msgstr "This functionality is not yet implemented."
+
+msgid "popup_confirm_delete_gadget"
+msgstr "Do you want to delete this gadget ?"
+
+msgid "popup_confirm_download_gadget"
+msgstr "Do you want to download this gadget ?"
+
+msgid "popup_confirm_update_gadget"
+msgstr "Do you want to update this gadget ?"
+
+msgid "popup_gadget_has_been_updated"
+msgstr "The gadget is now up to date."
+
+msgid "popup_confirm_delete_attitune"
+msgstr "Do you want to delete this attitune ?"
+
+msgid "yes"
+msgstr "Yes"
+
+msgid "no"
+msgstr "No"
+
+msgid "close"
+msgstr "Close"
+
+msgid "apply"
+msgstr "Apply"
+
+msgid "cancel"
+msgstr "Cancel"
+
+msgid "gadget_settings"
+msgstr "Settings"
+
+msgid "gadget_name"
+msgstr "Gadget name"
+
+msgid "my_use_of_the_gadget"
+msgstr "My use of the gadget"
+
+msgid "on_demand_config_section"
+msgstr "Favorite"
+
+msgid "on_demand_description"
+msgstr "This gadget will be placed in the Favorites list."
+
+msgid "date"
+msgstr "Date"
+
+msgid "starting_at"
+msgstr "Starting at"
+
+msgid "stopping_at"
+msgstr "Stopping at"
+
+msgid "delay"
+msgstr "Frequency"
+
+msgid "my_week"
+msgstr "My week"
+
+msgid "all_days"
+msgstr "Every day"
+
+msgid "working_days"
+msgstr "Working days"
+
+msgid "weekend"
+msgstr "Weekend"
+
+msgid "monday"
+msgstr "Monday"
+
+msgid "tuesday"
+msgstr "Tuesday"
+
+msgid "wednesday"
+msgstr "Wednesday"
+
+msgid "thursday"
+msgstr "Thursday"
+
+msgid "friday"
+msgstr "Friday"
+
+msgid "saturday"
+msgstr "Saturday"
+
+msgid "sunday"
+msgstr "Sunday"
+
+msgid "quart_hours"
+msgstr "Quarter hours"
+
+msgid "half_hours"
+msgstr "Half hours"
+
+msgid "full_hours"
+msgstr "Hours"
+
+msgid "crazy"
+msgstr "Crazy"
+
+msgid "often"
+msgstr "Often"
+
+msgid "normal"
+msgstr "Normal"
+
+msgid "rarely"
+msgstr "Rarely"
+
+msgid "show"
+msgstr "Show"
+
+msgid "online_documentation"
+msgstr "Online documentation"
+
+msgid "documentation_url"
+msgstr "http://www.kysoh.com/documentation?set_language=en"
+
+msgid "global_settings"
+msgstr "Global settings"
+
+msgid "introduction_alerts"
+msgstr "Introduction alerts"
+
+msgid "voice_settings"
+msgstr "Voice settings"
+
+msgid "voice_param_title"
+msgstr "Voice"
+
+msgid "pitch_param_title"
+msgstr "Pitch"
+
+msgid "test"
+msgstr "Test"
+
+msgid "pitch_tux_voice"
+msgstr "Tux voice"
+
+msgid "pitch_normal"
+msgstr "Normal"
+
+msgid "pitch_low"
+msgstr "Low"

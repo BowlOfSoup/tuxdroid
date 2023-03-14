@@ -1,0 +1,17 @@
+pattern_name = "Common"
+pattern_description = ""
+pattern_author = "Remi Jocaille"
+pattern_version = "0.0.1"
+pattern_languages = ['ALL',]
+pattern_define = [
+    ['regular', r'/', ' '],
+    ['regular', r'\[', ' '],
+    ['regular', r'\]', ' '],
+    ['regular', r'\(', ' '],
+    ['regular', r'\)', ' '],
+    ['regular', r'{', ' '],
+    ['regular', r'}', ' '],
+    ['regular', r'_', ' '],
+    ['regular', r"\\", ' '],
+    ['regular', r'"', ' '],
+]

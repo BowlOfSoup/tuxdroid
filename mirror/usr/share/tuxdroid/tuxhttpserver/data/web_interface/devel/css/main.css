@@ -1,0 +1,147 @@
+div.thumbnailsBg{
+    height:100px;
+    width:500px;
+    font-family:Verdana, Bitstream Vera Sans;
+    background-image:url(/data/web_interface/devel/img/pg-thumbnails-bg.png);
+}
+
+.mainThumbIcon{
+    position:absolute;
+    top:15px;
+    left:227px;
+    display:table;
+}
+
+.m2ThumbIcon{
+    position:absolute;
+    top:26px;
+    left:55px;
+    display:table;
+}
+
+.m1ThumbIcon{
+    position:absolute;
+    top:26px;
+    left:120px;
+    display:table;
+}
+
+.p1ThumbIcon{
+    position:absolute;
+    top:26px;
+    left:332px;
+    display:table;
+}
+
+.p2ThumbIcon{
+    position:absolute;
+    top:26px;
+    left:397px;
+    display:table;
+}
+
+.mainThumbName{
+    position:absolute;
+    top:65px;
+    margin-left:200px;
+    width:100px;
+    font-size:10px;
+    font-weight:bold;
+    color:#EC6500;
+    text-align:center;
+}
+
+div.tbElementContent{
+    width:400px;
+    height:25px;
+    display:table;
+    margin-top:10px;
+    margin-left:50px;
+    margin-right:50px;
+    background-color:#090909;
+    color:#090909;
+}
+
+iframe.tbElementView{  
+}
+
+.tbButtonPreview{
+    position:absolute;
+    top:36px;
+    left:5px;
+	width:28px; 
+    height:28px; 
+    display:table;
+    line-height:28px; 
+    background-image:url(/data/web_interface/devel/img/pg-thumbnails-preview-enabled.png); 
+}
+
+.tbButtonPreview:hover{
+    background-image:url(/data/web_interface/devel/img/pg-thumbnails-preview-over.png); 
+}
+
+.tbButtonNext{
+    position:absolute;
+    top:36px;
+    left:467px;
+	width:28px; 
+    height:28px; 
+    display:table;
+    line-height:28px; 
+    background-image:url(/data/web_interface/devel/img/pg-thumbnails-next-enabled.png); 
+}
+
+.tbButtonNext:hover{
+    background-image:url(/data/web_interface/devel/img/pg-thumbnails-next-over.png); 
+}
+
+/* For global gui temp ... */
+div.topLeftLogo{
+    float:left;
+    background-image:url(/data/web_interface/devel/img/gi_top_left_logo.png);
+    width:200px;
+    height:70px;
+    display:table;
+}
+
+a.topButton{
+    float:left;
+    margin-top:7px;
+	width:100px; 
+    height:55px; 
+    display:table;
+    line-height:55px;
+    text-decoration:none;
+    background-image:url(/data/web_interface/devel/img/menu_top_bt_enabled.png);
+    font-size:14px;
+    font-family:Verdana, Bitstream Vera Sans;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+}
+
+a.topButton:hover{
+    background-image:url(/data/web_interface/devel/img/menu_top_bt_over.png);
+    color:#EC6500;
+}
+
+a.topButton:active{
+    color:white;
+    background-image:url(/data/web_interface/devel/img/menu_top_bt_activated.png);
+}
+
+a.topButtonActive{
+    float:left;
+    margin-top:7px;
+	width:100px; 
+    height:55px; 
+    display:table;
+    line-height:55px;
+    text-decoration:none;
+    background-image:url(/data/web_interface/devel/img/menu_top_bt_activated.png);
+    font-size:14px;
+    font-family:Verdana, Bitstream Vera Sans;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+}

@@ -1,0 +1,17 @@
+msgid "current_menu_is"
+msgstr ""
+
+msgid "tux"
+msgstr ""
+
+msgid "droid"
+msgstr ""
+
+msgid "tuxdroid"
+msgstr ""
+
+msgid "gadget"
+msgstr ""
+
+msgid "login"
+msgstr ""

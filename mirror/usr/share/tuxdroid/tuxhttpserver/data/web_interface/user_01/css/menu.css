@@ -1,0 +1,143 @@
+div.ContentView{
+    position:absolute;
+    left:50%;
+    top:0px;
+    width:855px;
+    height:535px;
+    display:table;
+    margin-top:65px;
+    margin-left:-428px;
+    margin-right:50px;
+    background-color:#EFEFEF;
+    color:#EFEFEF;
+    z-index:1001;
+    overflow:hidden;
+}
+
+iframe.ContentIFrame{
+    left:0px;
+    top:0px;
+    width:100%;
+    height:535px;
+    display:table;
+    margin-top:0px;
+    margin-left:0px;
+    margin-right:0px;
+    background-color:#EFEFEF;
+    color:#EFEFEF;
+    z-index:1001;
+    overflow:hidden;
+}
+
+a.menuLeftEnable{
+    float:left;
+    margin-top:0px;
+	width:171px;
+    height:65px;
+    display:table;
+    line-height:58px;
+    text-decoration:none;
+    background-image:url(/data/web_interface/user_01/img/menu_left_enable.png);
+    font-size:14px;
+    font-family:Verdana, Bitstream Vera Sans;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+}
+
+a.menuLeftActivate{
+    float:left;
+    margin-top:0px;
+	width:171px;
+    height:65px;
+    display:table;
+    line-height:58px;
+    text-decoration:none;
+    background-image:url(/data/web_interface/user_01/img/menu_left_activate.png);
+    font-size:14px;
+    font-family:Verdana, Bitstream Vera Sans;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+}
+
+a.menuCenterEnable{
+    float:left;
+    margin-top:0px;
+	width:171px;
+    height:65px;
+    display:table;
+    line-height:58px;
+    text-decoration:none;
+    background-image:url(/data/web_interface/user_01/img/menu_center_enable.png);
+    font-size:14px;
+    font-family:Verdana, Bitstream Vera Sans;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+}
+
+a.menuCenterActivate{
+    float:left;
+    margin-top:0px;
+	width:171px;
+    height:65px;
+    display:table;
+    line-height:58px;
+    text-decoration:none;
+    background-image:url(/data/web_interface/user_01/img/menu_center_activate.png);
+    font-size:14px;
+    font-family:Verdana, Bitstream Vera Sans;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+}
+
+a.menuRightEnable{
+    float:left;
+    margin-top:0px;
+	width:171px;
+    height:65px;
+    display:table;
+    line-height:58px;
+    text-decoration:none;
+    background-image:url(/data/web_interface/user_01/img/menu_right_enable.png);
+    font-size:14px;
+    font-family:Verdana, Bitstream Vera Sans;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+}
+
+a.menuRightActivate{
+    float:left;
+    margin-top:0px;
+	width:171px;
+    height:65px;
+    display:table;
+    line-height:58px;
+    text-decoration:none;
+    background-image:url(/data/web_interface/user_01/img/menu_right_activate.png);
+    font-size:14px;
+    font-family:Verdana, Bitstream Vera Sans;
+    color:white;
+    font-weight:bold;
+    text-align:center;
+}
+
+#overlay{
+	display:none;
+	position:absolute;
+    margin-top:0px;
+    margin-left:0px;
+	top:0px;
+	left:0px;
+    width:100% !important;
+    _width:110%;
+	height:100%;
+	z-index:1000;
+	background-color:#000000;
+	-moz-opacity: 0.70;
+	opacity:.70;
+	filter: alpha(opacity=70);
+}
