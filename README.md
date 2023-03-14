@@ -18,7 +18,9 @@ You can use the following scripts:
 * `/usr/bin/tuxhttpserver`: you can start the HTTP server manually with `tuxhttpserver --start`. (See also: `--restart` and `--stop`)
 * `/usr/bin/tuxsh`: You can use Python to give commands to the droid (see examples)
 
-There are some Python files in this repo (`main.py` etc.) that serve as entrypoint for my own droid 'scripts'. It's basic, but still fun to use as commit hook to entertain your colleagues. **Example usage trough shell script: `./tux.sh alert`**
+There are some Python files in this repo (`main.py` etc.) that serve as entrypoint for my own droid 'scripts'. It's basic, but still fun to use as commit hook to entertain your colleagues.
+
+**Example usage trough shell script: `./tux.sh alert`**
 
 ### What is not included, does not work?
 * Text To Speech. Can't get it to work. Files are **not** included in this repo.
