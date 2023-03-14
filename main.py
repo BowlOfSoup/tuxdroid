@@ -52,6 +52,7 @@ class Main:
     def __tux_reset(self):
         time.sleep(1.0)
         self.__tux.flippers.down()
+        self.__tux.flippers.down() # force
         self.__tux.led.both.off()
 
     def __action_alert(self):
